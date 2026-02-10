@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+yfinance
+google-genai
+chromadb
+python-dotenv
+pydantic
+requests
+beautifulsoup4
+tiktoken
+sqlalchemy
+psycopg2-binary
+alpha_vantage
