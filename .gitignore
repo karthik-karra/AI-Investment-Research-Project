@@ -108,6 +108,6 @@ eslintcache
 test_sec_download.py
 test.py
 test_genai_new.py
-backend/chromadb
+backend/chroma_db
 backend/services
 backend/api
